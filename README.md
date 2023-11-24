@@ -70,4 +70,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Salmane Mohaddab - salmanemohaddab@gmail.com
 
-Project Link: [ https://github.com/salmane34/ALGO-Compiler.git ]
+LinkedIn: [ https://www.linkedin.com/in/salmane-mohaddab/ ]

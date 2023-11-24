@@ -49,11 +49,11 @@ We can use a model based on a Convolutional Neural Network (CNN) to solve the pr
 The GUI application for the handwritten digit recognition project provides an intuitive interface where users can draw digits on a canvas using their mouse or a stylus. Once a digit is drawn, users can click the 'Predict' button, prompting the application to process the input and use a pre-trained neural network model to predict and display the corresponding digit. The interface also features a 'Clear' button, allowing for easy resetting of the canvas for new inputs.
 
 
-![Example Image](https://github.com/salmane34/Handwritten-Recognition-GUI-App/blob/0728346b9b86498a36317d39bb1f589bad8a4c2b/Images/1.png)
+![Example Image](https://github.com/salmane34/Handwritten-Recognition-GUI-App/blob/668106ee6dd438e2994312c7236426b212ba7c3f/Images/1.png)
 
 ## Results
 
-![Example Image](https://github.com/salmane34/Handwritten-Recognition-GUI-App/blob/0728346b9b86498a36317d39bb1f589bad8a4c2b/Images/2.png)
+![Example Image](https://github.com/salmane34/Handwritten-Recognition-GUI-App/blob/668106ee6dd438e2994312c7236426b212ba7c3f/Images/2.png)
 
 
 ## Contributing
